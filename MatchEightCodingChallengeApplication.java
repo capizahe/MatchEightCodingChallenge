@@ -40,7 +40,7 @@ public class MatchEightCodingChallengeApplication {
 
 	/**
 	 * This method will validate the provided input and check if 
-	 * there it is any value that can not be casted as Integer within the list.
+	 * there is any value that can not be casted as Integer within the list.
 	 * If  there it is any error when validating it will throw an exception.
 	 * 
 	 * @param args
